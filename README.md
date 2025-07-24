@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Archana RA
 
 ### 💼 Full Stack Developer  
-📍 Based in Arumanai, India  
-🌱 Former Associate Server Administrator evolving into a full-stack developer with a strong foundation in infrastructure and a growing passion for building modern web applications.
+📍 Kanniyakumari District, Tamil Nadu, India  
+🌱 Associate Server Administrator with 1 year experience, now transitioning into full-stack development. Skilled in Linux system administration, Python, SQL, JavaScript, and web technologies. Passionate about building scalable and reliable web applications.
 
 ---
 
@@ -24,17 +24,9 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-r-a-858aa2281)
-
----
-
-<!-- Uncomment this section after you have some GitHub repos -->
-
-<!--
-## 📊 GitHub Stats
-
-![Archana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=archanara&show_icons=true&theme=tokyonight)
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/archana-r-a-858aa2281)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/11RAArchana)  
+📧 archanara@gmail.com
 
 ---
 
